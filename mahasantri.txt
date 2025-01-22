@@ -1,4 +1,5 @@
 Mahasantri PeTIK :
-1. Lintang
+<<<<<<< HEAD
+1. Egi
 2. Bambang
 3. Bagas
