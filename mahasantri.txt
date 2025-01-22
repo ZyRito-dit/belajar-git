@@ -1,5 +1,4 @@
 Mahasantri PeTIK :
-<<<<<<< HEAD
 1. Egi
 2. Bambang
 3. Bagas
